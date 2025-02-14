@@ -125,7 +125,8 @@ p {
 
 .rate span:hover {
     background-color: var(--Orange);
-    color:var(--DarkBlue)
+    color:var(--DarkBlue);
+    cursor:pointer;
 }
 
 .rate span.selected {
@@ -147,7 +148,7 @@ p {
 
 #sub:hover {
     background-color: white;
-
+    cursor:pointer;
 }
 
 .output {
